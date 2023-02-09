@@ -1,0 +1,21 @@
+.banner{
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+}
+
+.banner .container{
+  margin:auto;
+}
+
+.banner .container h1{
+  color: white;
+  margin-top: 0;
+}
+
+.banner .container p{
+  color: rgb(191, 179, 179);
+  margin-top: 0;
+  font-size: large;
+  margin-bottom: 40px;
+}
